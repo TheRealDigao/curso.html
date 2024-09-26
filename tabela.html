@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -9,48 +10,54 @@
             border-collapse: collapse;
         }
         th, td {
-            border: 1px solid #ddd;
+            border: 1px solid #ffffff;
             padding: 8px;
             text-align: left;
         }
         th {
-            background-color: #f2f2f2;
-        }
-        tr:nth-child(even) {
-            background-color: #f9f9f9;
+            background-color: #ffffff;
         }
     </style>
 </head>
 <body>
 
-<h2>Tabelagem</h2>
+<h2>Tabela</h2>
 
 <table>
     <thead>
         <tr>
+            <th>ID</th>
             <th>Nome</th>
-            <th>Idade</th>
-            <th>Estado</th>
+            <th>Detalhes</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Carlos</td>
-            <td>42</td>
-            <td>São Paulo</td>
+            <td>1</td>
+            <td><a href="#item1">Item 1</a></td>
+            <td>Pedra</td>
         </tr>
         <tr>
-            <td>Danyel</td>
-            <td>24</td>
-            <td>Rio de Janeiro</td>
+            <td>2</td>
+            <td><a href="#item2">Item 2</a></td>
+            <td>Papel</td>
         </tr>
         <tr>
-            <td>Cleide</td>
-            <td>38</td>
-            <td>Acre</td>
+            <td>3</td>
+            <td><a href="#item3">Item 3</a></td>
+            <td>Tesoura</td>
         </tr>
     </tbody>
 </table>
+
+<h2 id="item1">Detalhes - Item 1</h2>
+<p>Pedra anula Tesoura</p>
+
+<h2 id="item2">Detalhes - Item 2</h2>
+<p>Papel anula Pedra</p>
+
+<h2 id="item3">Detalhes - Item 3</h2>
+<p>Tesoura anula Papel</p>
 
 </body>
 </html>
