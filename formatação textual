@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatação Textual</title>
+</head>
+
+<body>
+
+    <h2>Formatação Textual</h2>
+
+ <p> TEXTO NORMAL</p>
+ <u> TEXTO SUBLINHADO</u>
+ <b> TEXTO EM NEGRITO</b>
+ <i> TEXTO EM ITALICO</i>
+
+</body>
+</html>
