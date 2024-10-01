@@ -10,10 +10,17 @@
 
     <h2>Formatação Textual</h2>
 
- <p> TEXTO NORMAL</p>
- <u> TEXTO SUBLINHADO</u>
- <b> TEXTO EM NEGRITO</b>
- <i> TEXTO EM ITALICO</i>
+<h1>Normal</h1>
+<p> TEXTO NORMAL</p>
+ 
+<h1>Sublinhado</h1>
+<u> TEXTO SUBLINHADO</u>
+
+<h1>Negrito</h1>
+<b> TEXTO EM NEGRITO</b>
+
+<h1>Italico</h1>
+<i> TEXTO EM ITALICO</i>
 
 </body>
 </html>
