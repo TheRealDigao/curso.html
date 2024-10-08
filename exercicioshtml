@@ -15,22 +15,22 @@
     <h1>Exercicios html</h1>
     
     <h2>Formatação Textual</h2>
-    <a href="https://github.com/TheRealDigao/cursohtml/blob/main/Formatação_Textual.html" target="_blank">- FRMTÇTXTL -</a>
+    <a href="frmtxt.html" target="_blank">- FRMTÇTXTL -</a>
     
     <h2>Formulário</h2>
-    <a href="https://github.com/TheRealDigao/cursohtml/blob/main/Formulário.html" target="_blank">- FRMLR -</a>        
+    <a href="frmlr.html" target="_blank">- FRMLR -</a>        
 
     <h2>Imagens</h2>
-    <a href="https://github.com/TheRealDigao/cursohtml/blob/main/Imagens.html" target="_blank">- MGNS -</a>        
+    <a href="mgns" target="_blank">- MGNS -</a>        
 
     <h2>Links</h2>
-    <a href="https://github.com/TheRealDigao/cursohtml/blob/main/Links.html" target="_blank">- LNKS -</a>
+    <a href="lnks" target="_blank">- LNKS -</a>
 
     <h2>Lista</h2>
-    <a href="https://github.com/TheRealDigao/cursohtml/blob/main/Lista.html" target="_blank">- LST -</a>    
+    <a href="lst" target="_blank">- LST -</a>    
 
     <h2>Tabela</h2>
-    <a href="https://github.com/TheRealDigao/cursohtml/blob/main/Tabela.html" target="_blank">- TBL -</a>
+    <a href="tbl" target="_blank">- TBL -</a>
 
   </body>
 </html>
